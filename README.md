@@ -10,3 +10,4 @@
 | 4 | **log-viewer** | 리눅스 서버에서 발생하는 로그 기록 (auth.log)을 수집하여, 이를 실시간으로 시각화하고 분석하는 시스템을 구축 | Elasticsearch, Logstash, Kibana, Filebeat, Batch, Ubuntu | [Link](https://github.com/12-hours-is-enough/log-viewer) | 4 | 2025.01.21 ~ 2025.01.22 |
 | 5 | **ELK-Stack-on-VMware** | 각각의 가상 머신(VM)에 Elasticsearch, Logstash, Kibana를 구성하여 ELK Stack 시스템을 구축 | Elasticsearch, Logstash, Kibana, VirtualBox, Ubuntu | [Link](https://github.com/12-hours-is-enough/ELK-Stack-on-VMware) | 4 | 2025.01.24 ~ 2025.01.30|
 | 6 | **TomorrowTheInsuranceKing** | 카드 소비 데이터를 활용해 고객들이 필요로 하는 보험을 분석 | Elasticsearch, Kibana | [Link](https://github.com/12-hours-is-enough/TomorrowTheInsuranceKing) | 4 | 2025.01.24 ~ 2025.02.02|
+| 7 | **son-job-ee** | 은퇴 후에도 활기차게 사회 활동에 참여하고자 하는 시니어들을 위한 맞춤형 플랫폼 | JSP, Html, Css, Javascript, JDBC | [Link](https://github.com/12-hours-is-enough/son-job-ee) | 4 | 2025.02.04 ~ 2025.02.10|
